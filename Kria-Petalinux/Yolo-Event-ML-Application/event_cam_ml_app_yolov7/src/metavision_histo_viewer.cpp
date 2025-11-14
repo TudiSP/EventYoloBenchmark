@@ -391,10 +391,6 @@ void runYOLO(vart::Runner* runner,float conf,float rmax, float bmax,Mat& img) {
     
   
     imshow("img1",img);
-    waitKey(100); 
-
-
-
 
 }
 
